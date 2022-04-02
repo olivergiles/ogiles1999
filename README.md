@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oliver!</h1>
-<h3 align="center">Aspiring data/ml engineer</h3>
+<h3 align="center">Teacher/ml engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogiles1999&label=Profile%20views&color=0e75b6&style=flat" alt="ogiles1999" /> </p>
 
