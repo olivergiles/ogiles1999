@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogiles1999" alt="ogiles1999" /></a> </p>
 
-- 🔭 I’m currently working on **Comparing the workflow between Docker and Podman**
+- 🔭 I’m currently working on **Cython algorithms**
 
 - 🌱 I’m currently learning **Kubernetes**
 
